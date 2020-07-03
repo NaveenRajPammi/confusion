@@ -1,0 +1,28 @@
+<TextView
+android:text="Cyclones"
+android:textColor="android:color/black"
+android:textStyle="bold"
+android:textSize="24sp"/>
+<TextView
+android:text=" "
+android:textSize="8sp"/>
+<TextView
+android:text="we are collecting money for the 
+People who affected in Cyclones. Donate as much
+as you can"
+android:textColor="android:color/grey"
+android:textStyle="justified"
+android:textSize="18sp"/>
+<TextView
+android:text=" "
+android:textSize="8sp"/>
+<TextView
+android:text="Donations Collected: "
+andoid:textColor="android:color/grey"
+android:textStyle="bold"
+android:textSize="18sp"/>
+<TextView
+android:text="$100"
+android:textColor="android:color/green"
+android:textSize="18sp"/>
+
